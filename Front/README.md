@@ -1,3 +1,7 @@
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anthony-Buisson/methodo-tests/CI/master)
+![GitHub forks](https://img.shields.io/github/forks/Anthony-Buisson/methodo-tests?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Anthony-Buisson/methodo-tests?style=social)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
